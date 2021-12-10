@@ -1,1 +1,1 @@
-# jetbit
+# Jetbit Cryptocurrency Exchange
